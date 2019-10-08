@@ -1,0 +1,86 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        0,
+        4,
+        2,
+        5,
+        0,
+        6,
+        3,
+        7,
+        0,
+        8,
+        4,
+        9,
+        0,
+        10,
+        5,
+        11,
+        0,
+        12,
+        6,
+        13,
+        7
+    ],
+    "event_string": [
+        "..so they put in the news \"Heart Attack Shack Strikes Back\".",
+        "Kristen",
+        "That's a pretty good title.",
+        "Omo",
+        "I know right?",
+        "Kristen",
+        "Wait so he's actually dead?",
+        "Omo",
+        "Mayor Paesly? Oh yeah, he's being buried right now probably.",
+        "Kristen",
+        "That's so shady, but then again he LOVED to eat.",
+        "Omo",
+        "Gotta die doing what you love...",
+        "Kristen"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

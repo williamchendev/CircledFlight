@@ -1,0 +1,97 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        0,
+        4,
+        2,
+        5,
+        0,
+        6,
+        3,
+        7,
+        0,
+        8,
+        4,
+        9,
+        0,
+        10,
+        5,
+        11,
+        0,
+        12,
+        6,
+        13,
+        0,
+        14,
+        7,
+        15,
+        7
+    ],
+    "event_string": [
+        "Uhh can I help you?",
+        "Kristen",
+        "(Oh shoot, I shouldn't stand so close to them)",
+        "player",
+        "Hi I'd like to order a large-.",
+        "Omo",
+        "Sorry! I'm not a waiter, I'm just looking for the bathroom..",
+        "player",
+        "Oh, this place doesn't have one.",
+        "Kristen",
+        "You can probably find one in one of the shops around here.",
+        "Omo",
+        "Hopefully you don't have to pay to get in.",
+        "Kristen",
+        "Thanks so much!",
+        "player"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

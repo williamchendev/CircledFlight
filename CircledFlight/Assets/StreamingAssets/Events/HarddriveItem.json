@@ -1,0 +1,88 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        0,
+        4,
+        2,
+        5,
+        0,
+        6,
+        3,
+        7,
+        0,
+        8,
+        4,
+        9,
+        0,
+        10,
+        5,
+        11,
+        0,
+        12,
+        6,
+        13,
+        6,
+        16,
+        7
+    ],
+    "event_string": [
+        "Finally! We got it!",
+        "player",
+        "Wait how do we take the harddrive out?",
+        "Will",
+        "Oh.",
+        "player",
+        "Try hitting it.",
+        "Will",
+        "Or I could pull it out, the computer's already destroyed.",
+        "player",
+        "Wait really?",
+        "Will",
+        "Someone bashed this computer a while ago, you can slide the drive right off.",
+        "player"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

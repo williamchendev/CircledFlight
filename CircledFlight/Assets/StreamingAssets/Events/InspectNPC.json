@@ -1,0 +1,20 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        7
+    ],
+    "event_string": [
+        "(Inspect NPC)\n\n(An older woman sits on a rusted fire hydrant, a forgotten cigarette burned down in her hand.)",
+        "player"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

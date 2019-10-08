@@ -1,0 +1,152 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        0,
+        4,
+        2,
+        5,
+        0,
+        6,
+        3,
+        7,
+        0,
+        8,
+        4,
+        9,
+        0,
+        10,
+        5,
+        11,
+        0,
+        12,
+        6,
+        13,
+        0,
+        14,
+        7,
+        15,
+        0,
+        16,
+        8,
+        17,
+        0,
+        18,
+        9,
+        19,
+        0,
+        20,
+        10,
+        21,
+        0,
+        22,
+        11,
+        23,
+        0,
+        24,
+        12,
+        25,
+        7
+    ],
+    "event_string": [
+        "So it's safe to say the world's going to end right?",
+        "Kristen",
+        "I'm sick of saying that.",
+        "Omo",
+        "Why?",
+        "Kristen",
+        "We've been saying that for the past 10 years.",
+        "Omo",
+        "The world hasn't ended, and it probably won't.",
+        "Omo",
+        "California is sinking-",
+        "Kristen",
+        "we've closer than ever to nuclear annihilation-",
+        "Kristen",
+        "Wages have hit rock bottom-",
+        "Kristen",
+        "Our president is STILL a moron-",
+        "Kristen",
+        "Honestly I'm ready for the bombs to drop.",
+        "Kristen",
+        "They won't.",
+        "Omo",
+        "Why?",
+        "Kristen",
+        "Because the won't.",
+        "Omo"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

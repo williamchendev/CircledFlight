@@ -1,0 +1,47 @@
+{
+    "event_data": [
+        9,
+        2,
+        0,
+        1,
+        2,
+        3,
+        3,
+        1,
+        -1,
+        4,
+        5,
+        5,
+        0,
+        4,
+        6,
+        3,
+        7,
+        8,
+        0,
+        9,
+        0,
+        10,
+        7
+    ],
+    "event_string": [
+        "Let's go to City Hall! :D",
+        "Nah..",
+        "Yeah!",
+        "",
+        "Will",
+        "BusSFX",
+        "CityHallOutside",
+        "TransitionA",
+        "TransitionB",
+        ":C",
+        "Will"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

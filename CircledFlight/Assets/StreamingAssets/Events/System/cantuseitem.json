@@ -1,0 +1,20 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        7
+    ],
+    "event_string": [
+        "I can't use that, that's dumb!",
+        "player"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

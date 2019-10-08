@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 522901173e52b9a40b711b0e38a8e959
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6844815690601887878
+    second: circled-test2_0
+  - first:
+      213: 8516735196047405184
+    second: circled-test2_1
+  - first:
+      213: -7180415486224516714
+    second: circled-test2_2
+  - first:
+      213: 3436929129740715586
+    second: circled-test2_3
+  - first:
+      213: -1454172545152424385
+    second: circled-test2_4
+  - first:
+      213: -6350333613648919093
+    second: circled-test2_5
+  - first:
+      213: -3963681875439038419
+    second: circled-test2_6
+  - first:
+      213: 418468199984091994
+    second: circled-test2_7
+  - first:
+      213: 4322696356486897183
+    second: circled-test2_8
+  - first:
+      213: -7648372059863255926
+    second: circled-test2_9
+  - first:
+      213: 7585314789551312330
+    second: circled-test2_10
+  - first:
+      213: 7379580358289235762
+    second: circled-test2_11
+  - first:
+      213: -6008184364301246893
+    second: circled-test2_12
+  - first:
+      213: 4511340337275082384
+    second: circled-test2_13
+  - first:
+      213: -4991949422073219822
+    second: circled-test2_14
+  - first:
+      213: -3713920663658284580
+    second: circled-test2_15
+  - first:
+      213: -5368329291884686328
+    second: circled-test2_16
+  - first:
+      213: 9222838841674399934
+    second: circled-test2_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: circled-test2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6727
+        width: 816
+        height: 1440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39d6f58fac697446b2467fc5251f626
+      internalID: -6844815690601887878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_1
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 6733
+        width: 592
+        height: 1440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7325bf661de506543bb5c5e660a78742
+      internalID: 8516735196047405184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_2
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 6733
+        width: 430
+        height: 1448
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e76f1a32f45549449ad1c7bc89f711d
+      internalID: -7180415486224516714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_3
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 6831
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a4a9f9fdff2f445b1d350efd735568
+      internalID: 3436929129740715586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_4
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 6733
+        width: 515
+        height: 1456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed064064c8a17c246b15ab22b5e7dd5b
+      internalID: -1454172545152424385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6793
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99522aa269e773443b3cc3171fb21a99
+      internalID: -6350333613648919093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 6723
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa18c5b527da1a040ab41e47385e84ef
+      internalID: -3963681875439038419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_7
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 6725
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d772de7203cd941a71566073aeeca1
+      internalID: 418468199984091994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 6705
+        width: 19
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf20d62d74761f49a83d1bbe29d61d6
+      internalID: 4322696356486897183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5247
+        width: 346
+        height: 1460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a840afd7a1b9d408e308e8d2182b88
+      internalID: -7648372059863255926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_10
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 5249
+        width: 510
+        height: 1452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b655e5a1a6d1b9445a2c105a53d1e806
+      internalID: 7585314789551312330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_11
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 5253
+        width: 802
+        height: 1438
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c0c2206108e964aaf3d7788335f6b7
+      internalID: 7379580358289235762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_12
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 5241
+        width: 470
+        height: 1442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4c38dd503f4242b525462c88d1aab
+      internalID: -6008184364301246893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3757
+        width: 418
+        height: 1446
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3db46f906e8941be3b0d10edaac73
+      internalID: 4511340337275082384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_14
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 3755
+        width: 336
+        height: 1454
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d486006a04c43418a4bd0b4bae0866
+      internalID: -4991949422073219822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_15
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 3755
+        width: 354
+        height: 1462
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5641b01985a917444a75b35bf3437197
+      internalID: -3713920663658284580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_16
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 3759
+        width: 498
+        height: 1454
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5b6a14e0d2474bb44af5c0d3c57a7
+      internalID: -5368329291884686328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circled-test2_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2267
+        width: 788
+        height: 1456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57acdd1181aebb4b8766c00fc803c1e
+      internalID: 9222838841674399934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

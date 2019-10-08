@@ -1,0 +1,110 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        0,
+        4,
+        2,
+        5,
+        0,
+        6,
+        3,
+        7,
+        0,
+        8,
+        4,
+        9,
+        0,
+        10,
+        5,
+        11,
+        0,
+        12,
+        6,
+        13,
+        0,
+        14,
+        7,
+        15,
+        0,
+        16,
+        8,
+        17,
+        6,
+        12,
+        7
+    ],
+    "event_string": [
+        "Are you seriously going to pick that up?",
+        "Will",
+        "..yes?",
+        "player",
+        "Ugh that's so gross.",
+        "Will",
+        "But it's moneyyyy.",
+        "player",
+        "Yeah, at least pick up like a quarter.",
+        "Will",
+        "Listen, that condo isn't going to buy itself.",
+        "player",
+        "This is a N I C K L E tho.",
+        "Will",
+        "Mama wan't a condo.",
+        "player",
+        "Uggghhhh.",
+        "Will"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

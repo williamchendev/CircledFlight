@@ -1,0 +1,130 @@
+{
+    "event_data": [
+        9,
+        2,
+        0,
+        1,
+        2,
+        3,
+        3,
+        1,
+        -1,
+        4,
+        0,
+        5,
+        0,
+        6,
+        8,
+        0,
+        4,
+        0,
+        7,
+        1,
+        8,
+        0,
+        9,
+        2,
+        10,
+        0,
+        11,
+        3,
+        12,
+        9,
+        2,
+        13,
+        14,
+        15,
+        16,
+        3,
+        1,
+        -1,
+        17,
+        0,
+        18,
+        4,
+        19,
+        0,
+        20,
+        5,
+        21,
+        0,
+        22,
+        6,
+        23,
+        0,
+        24,
+        7,
+        25,
+        7
+    ],
+    "event_string": [
+        "<b>NPC</b>: ...",
+        "Nice night",
+        "Any place to stay?",
+        "",
+        "npc",
+        "<b>Havari</b>: Excuse me. Is there any place to stay around here?",
+        "player",
+        "<b>Havari</b>: Hey. Nice night? Isn't it?",
+        "player",
+        "<b>NPC</b>: Hmph. Suppose so.",
+        "npc",
+        "<b>Havari</b>: Yeah y'know, look - is there some place around here to stay for the night?",
+        "player",
+        "<b>NPC</b>: Think the ol' motel's still up and runnin', could try your luck down there. Ain't many people looking' to stop and spend a night here, though.",
+        "I'll check it out",
+        "Why?",
+        "",
+        "npc",
+        "<b>Havari</b>: Why's that?",
+        "player",
+        "<b>NPC</b>: Oh, we're just not too interestin' I suppose. Ain't got anythin' to bring in tourists and got nothing to keep everyone born here, well, here.",
+        "npc",
+        "<b>Havari</b>: Well. Thanks, we'll go check it out.",
+        "player",
+        "<b>NPC</b>: Sure. You kids be careful though; motel's out on a back road, and I heard it was callin' for rain.",
+        "npc"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

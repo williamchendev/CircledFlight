@@ -1,0 +1,82 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        9,
+        2,
+        2,
+        3,
+        4,
+        5,
+        4,
+        1,
+        -1,
+        6,
+        0,
+        7,
+        1,
+        8,
+        0,
+        9,
+        2,
+        10,
+        8,
+        0,
+        3,
+        0,
+        11,
+        3,
+        12,
+        0,
+        13,
+        4,
+        14,
+        7
+    ],
+    "event_string": [
+        "(Talk to Trevor)\n\n(Trevor leans back on his cane, looking around at the sleepy road.)",
+        "player",
+        "<b>Trevor</b>: Looks like the locals've all gone to bed already.",
+        "I like the quiet",
+        "Not a lotta nightlife",
+        "",
+        "trevor",
+        "<b>Havari</b>: Yeah. Doesn't really look like the kind of place to have a nightlife scene.",
+        "player",
+        "<b>Trevor</b>: Yeah, you're ain't gonna find lot down this way.",
+        "trevor",
+        "<b>Havari</b>: It's nice. Really appreciating the quiet after everything.",
+        "player",
+        "<b>Trevor</b>: Yeah, it is.",
+        "trevor"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

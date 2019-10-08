@@ -1,0 +1,20 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        7
+    ],
+    "event_string": [
+        "(Inspect Trevor)\n\n(Trevor stands a little bit away from you fiddling with the top of his cane. His eyes cut over to you a few times as you watch him.)",
+        "player"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "event_data": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        0,
+        4,
+        2,
+        5,
+        0,
+        6,
+        3,
+        7,
+        0,
+        8,
+        4,
+        9,
+        0,
+        10,
+        5,
+        11,
+        4,
+        12,
+        0,
+        13,
+        14,
+        7
+    ],
+    "event_string": [
+        "Wow, you actually managed to grab this!",
+        "GovGirl",
+        "So can we come in?",
+        "player",
+        "...",
+        "GovGirl",
+        "Come on, we did what you asked.",
+        "Will",
+        "Fine.",
+        "GovGirl",
+        "Just don't break anything expensive.",
+        "GovGirl",
+        "Ending",
+        "TransitionA",
+        "TransitionB"
+    ],
+    "event_vector": [
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    ]
+}
